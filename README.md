@@ -2,3 +2,5 @@
 
 
 https://cse110-lab10-watermelonjar.canny.io/
+
+https://watermelonjar.github.io/lab10/
